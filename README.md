@@ -1,7 +1,7 @@
 
 
 <h1>Oi, sou o Nathan Rigolei</h1>
-Sou um desenvolvedor iniciante, apaixonado por tecnologia. Tenho um breve conhecimento e estou estudando HTML, CSS e JavaScript.
+Sou um estudante apaixonado por tecnologia e código. Possuo conhecimentos básicos em HTML, CSS e JavaScript.
 
 <br>
 <br>
